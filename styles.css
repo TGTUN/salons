@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.salon {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
